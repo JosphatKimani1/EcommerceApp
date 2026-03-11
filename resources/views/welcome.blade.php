@@ -9,6 +9,7 @@
 <body>
     <h1>CPA Kimani College of AI</h1>
     <h2>Learn with the industry best trainers!</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam facilis assumenda omnis ipsa, blanditiis vitae ipsam voluptates nobis? Tempore quam excepturi, animi ipsum officiis voluptatibus alias quae nulla laboriosam.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam facilis <br/>assumenda omnis ipsa, blanditiis vitae ipsam voluptates nobis? Tempore quam excepturi, animi ipsum officiis voluptatibus alias quae nulla laboriosam.</p>
+    <img src="https://www.pexels.com/photo/generational-portrait-of-african-women-36409051/" width="100"; height="100">
 </body>
 </html>
