@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>CPA Kimani Josphat</title>
+    <style>
+        body{
+            background-color: turquoise
+        }
+    </style>
 </head>
 <body>
     <h1>CPA Kimani College of AI</h1>
