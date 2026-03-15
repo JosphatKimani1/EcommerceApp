@@ -20,5 +20,12 @@
   <a href="#about">About</a>
 </div>
     </nav>
+
+    <!-- Footer section -->
+    <footer>
+        <p>CPA Kimani Josphat<br>
+        <a href="mailto:githuthajosphat@gmail.com">githuthajosphat@gmail.com</a></p>
+        <p>cell; 0720694048</p>
+    </footer>
 </body>
 </html>
