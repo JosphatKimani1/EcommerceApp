@@ -12,9 +12,13 @@
     </style>
 </head>
 <body>
-    <h1>CPA Kimani College of AI</h1>
-    <h2>Learn with the industry best trainers!</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam facilis <br/>assumenda omnis ipsa, blanditiis vitae ipsam voluptates nobis? Tempore quam excepturi, animi ipsum officiis voluptatibus alias quae nulla laboriosam.</p>
-    <img src="https://images.pexels.com/photos/36409051/pexels-photo-36409051.jpeg" width="400"; height="400" alt="">
+    <nav>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+    </nav>
 </body>
 </html>
